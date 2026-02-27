@@ -18,7 +18,7 @@ require("./database/setup");
 
 app.use(cors({
 
-    origin: ["http://localhost:5173", "https://fanciful-faloodeh-56afb0.netlify.app/"],
+    origin: ["http://localhost:5173", "https://ecommerce-backend-73q6.onrender.com/api"],
 
     credentials: true
 
