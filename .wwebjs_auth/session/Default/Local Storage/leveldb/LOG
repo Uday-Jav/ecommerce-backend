@@ -1,0 +1,15 @@
+2026/02/27-15:40:17.367 351c Reusing MANIFEST C:\Users\udaym\Desktop\clothing-store\backend\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/27-15:40:17.380 351c Recovering log #16
+2026/02/27-15:40:17.389 351c Reusing old log C:\Users\udaym\Desktop\clothing-store\backend\.wwebjs_auth\session\Default\Local Storage\leveldb/000016.log 
+2026/02/27-16:10:25.835 351c Level-0 table #20: started
+2026/02/27-16:10:25.886 351c Level-0 table #20: 14628 bytes OK
+2026/02/27-16:10:25.906 351c Delete type=0 #16
+2026/02/27-16:10:25.921 351c Compacting 4@0 + 1@1 files
+2026/02/27-16:10:25.954 351c Generated table #21@0: 114 keys, 7095 bytes
+2026/02/27-16:10:25.954 351c Compacted 4@0 + 1@1 files => 7095 bytes
+2026/02/27-16:10:25.957 351c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/27-16:10:25.989 351c Delete type=2 #8
+2026/02/27-16:10:25.990 351c Delete type=2 #11
+2026/02/27-16:10:25.990 351c Delete type=2 #14
+2026/02/27-16:10:25.990 351c Delete type=2 #17
+2026/02/27-16:10:25.990 351c Delete type=2 #20
